@@ -40,7 +40,7 @@ downloader.getMultipleFiles([
 ]);
 ```
 ### Abort download in progress
-You have to re-init downloader after aborting an transfer
+You have to re-init downloader after aborting a transfer
 
 ```javascript
 downloader.abort();
